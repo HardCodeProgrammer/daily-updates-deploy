@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/daily-updates-deploy/static/css/main.bd11927d.chunk.css",
-    "main.js": "/daily-updates-deploy/static/js/main.3df4f71b.chunk.js",
-    "main.js.map": "/daily-updates-deploy/static/js/main.3df4f71b.chunk.js.map",
-    "runtime-main.js": "/daily-updates-deploy/static/js/runtime-main.84fb8f70.js",
-    "runtime-main.js.map": "/daily-updates-deploy/static/js/runtime-main.84fb8f70.js.map",
-    "static/js/2.75293809.chunk.js": "/daily-updates-deploy/static/js/2.75293809.chunk.js",
-    "static/js/2.75293809.chunk.js.map": "/daily-updates-deploy/static/js/2.75293809.chunk.js.map",
-    "index.html": "/daily-updates-deploy/index.html",
-    "precache-manifest.1330472625deba0d0013e94b85b81710.js": "/daily-updates-deploy/precache-manifest.1330472625deba0d0013e94b85b81710.js",
-    "service-worker.js": "/daily-updates-deploy/service-worker.js",
-    "static/css/main.bd11927d.chunk.css.map": "/daily-updates-deploy/static/css/main.bd11927d.chunk.css.map",
-    "static/js/2.75293809.chunk.js.LICENSE.txt": "/daily-updates-deploy/static/js/2.75293809.chunk.js.LICENSE.txt"
+    "main.css": "/daily-updates/static/css/main.bd11927d.chunk.css",
+    "main.js": "/daily-updates/static/js/main.6e6494fb.chunk.js",
+    "main.js.map": "/daily-updates/static/js/main.6e6494fb.chunk.js.map",
+    "runtime-main.js": "/daily-updates/static/js/runtime-main.a729106e.js",
+    "runtime-main.js.map": "/daily-updates/static/js/runtime-main.a729106e.js.map",
+    "static/js/2.9aff37a8.chunk.js": "/daily-updates/static/js/2.9aff37a8.chunk.js",
+    "static/js/2.9aff37a8.chunk.js.map": "/daily-updates/static/js/2.9aff37a8.chunk.js.map",
+    "index.html": "/daily-updates/index.html",
+    "precache-manifest.6f482952dd78ff3610019add989b4fac.js": "/daily-updates/precache-manifest.6f482952dd78ff3610019add989b4fac.js",
+    "service-worker.js": "/daily-updates/service-worker.js",
+    "static/css/main.bd11927d.chunk.css.map": "/daily-updates/static/css/main.bd11927d.chunk.css.map",
+    "static/js/2.9aff37a8.chunk.js.LICENSE.txt": "/daily-updates/static/js/2.9aff37a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84fb8f70.js",
-    "static/js/2.75293809.chunk.js",
+    "static/js/runtime-main.a729106e.js",
+    "static/js/2.9aff37a8.chunk.js",
     "static/css/main.bd11927d.chunk.css",
-    "static/js/main.3df4f71b.chunk.js"
+    "static/js/main.6e6494fb.chunk.js"
   ]
 }
